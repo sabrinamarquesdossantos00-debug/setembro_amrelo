@@ -1,10 +1,11 @@
+
 body {
   font-family: Arial, sans-serif;
-margin: 0;
-padding: 0;
-backgroud: #fffbe6;
-color: #333;
-tex-algin: center;
+  margin: 0;
+  padding: 0;
+  background: #fffbe6;
+  color: #333;
+  text-align: center;
 }
 
 header {
@@ -15,30 +16,30 @@ header {
 
 h1 {
   margin: 0;
-font-size:2.5em;
-  }
+  font-size: 2.5em;
+}
 
 main {
-  padding:20px;
+  padding: 20px;
 }
 
 button {
   background: #f39c12;
   color: white;
-  borded: none;
+  border: none;
   padding: 15px 25px;
   border-radius: 10px;
-  font-size: lem;
+  font-size: 1em;
   cursor: pointer;
   transition: 0.3s;
 }
 
-button: hover {
+button:hover {
   background: #e67e22;
 }
 
 #mensagem {
-  margin-top:15px;
+  margin-top: 15px;
   font-style: italic;
   color: #444;
   font-size: 1.2em;
@@ -47,5 +48,5 @@ button: hover {
 footer {
   background: #f4d03f;
   padding: 10px;
-  margin-top:30px;
+  margin-top: 30px;
 }
